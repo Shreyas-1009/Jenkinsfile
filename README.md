@@ -25,7 +25,7 @@ pipeline {
     }
 }
 #Build Now CONSOLE OUTPUT
-CODE RUN SUCCESSFULLY
+
 Started by user Shreyas Dixit
 [Pipeline] Start of Pipeline
 [Pipeline] node
@@ -62,6 +62,6 @@ Python 3.9.20
 [Pipeline] // node
 [Pipeline] End of Pipeline
 Finished: SUCCESS
-
-
+.
+CODE RUN SUCCESSFULLY
 

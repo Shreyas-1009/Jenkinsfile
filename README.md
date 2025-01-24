@@ -24,7 +24,8 @@ pipeline {
         }
     }
 }
-#Build Now CONSOLE OUTPUT
+
+Build Now CONSOLE OUTPUT
 
 Started by user Shreyas Dixit
 [Pipeline] Start of Pipeline
